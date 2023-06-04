@@ -1,0 +1,9 @@
+{
+  "name": "Portfolio | n624",
+  "short_name": "n624",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "https://www.n624.net/#home"
+}
